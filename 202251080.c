@@ -5,7 +5,7 @@
 #include <limits.h>
 #include <stdlib.h>
 
-#define mx_vertices 100
+#define mx_vertices 200
 
 int minDistance(int distance[], int visited[], int n) {
     int min = mx_vertices, mn_ind;
